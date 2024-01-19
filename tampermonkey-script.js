@@ -4,7 +4,7 @@
 // @version 0.4.1
 // @description more fasterer
 // @author Tom
-// @match https://app.pluralsight.com/*player*
+// @match https://app.pluralsight.com/ilx/video-courses/*
 // @grant none
 // ==/UserScript==
 
